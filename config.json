@@ -1,0 +1,14 @@
+{
+  "uipath": {
+    "url": "https://platform.uipath.com",
+    "timeout": 30000
+  },
+  "browser": {
+    "headless": false,
+    "slow_mo": 0
+  },
+  "jobs": {
+    "default_folder": "",
+    "known_jobs": []
+  }
+}

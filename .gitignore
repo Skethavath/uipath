@@ -1,0 +1,41 @@
+# Environment variables
+.env
+.env.local
+*.env
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+ENV/
+.venv
+
+# Playwright
+.playwright/
+
+# Logs
+*.log
+uipath_automation.log
+
+# Screenshots and debug files
+*.png
+jobs_page_debug.png
+error_screenshot.png
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Config (if contains sensitive data - uncomment if needed)
+# config.json
